@@ -1,2 +1,1 @@
-# Federal-Reserve-Quantitative-Textual-Analysis
-Analyze corpus of speeches from federal reserve officials, dating back to 2013. 
+# QTA dependency graph on small subset of federal reserve speech
